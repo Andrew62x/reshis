@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "login": "andrewsemin23@gmail.com",
+      "salt": "040ff1977598c1d0542c1a63ef0c58e4",
+      "hash": "0306457f576b20b324f10b28b7e460aba9362e7c86cb03107e39a5c927fa66df44e546e3cd836ff15c716c144bfb0c1e4ab0f1ece909453b06a1a90a47003a6b",
+      "created": "2026-11-15T11:48:39.242Z"
+    }
+  ],
+  "sessions": {
+    "782b39431a1d0af0f9b9757f8cdaf4c82c37df1478cf453aff5d7068a277aa8f": {
+      "login": "andrewsemin23@gmail.com",
+      "expires": 1795348119242
+    }
+  }
+}
